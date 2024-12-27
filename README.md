@@ -1,6 +1,7 @@
 # Void of Dark Space
 
 This project using only Linux. You will not be able to run executive file on windows and MacOS, but you can compile executive file on this platforms
+Also you can launch this project on only X86-X64 architecture
 
 This project created for Linux and you should install packeges to launching this game
 
